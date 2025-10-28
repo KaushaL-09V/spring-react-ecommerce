@@ -16,7 +16,6 @@ This repository contains two main parts:
 
 - Java 17+ (or the version configured in the backend POM)
 - Maven (or use the provided Maven wrapper `mvnw` / `mvnw.cmd`)
-- Node.js 18+ and npm
 
 ## Run the backend (development)
 
@@ -82,6 +81,24 @@ README.md
 ecom-frontend/        # React + Vite frontend
 SpringEcom-backend/   # Spring Boot backend (Maven)
 ```
+
+## Screenshots / Frontend Preview
+
+Below are example screenshots from the frontend (files stored in the repository's Photo/ folder).
+
+Standard Markdown (automatic sizing):
+
+![Frontend - Home](Photo/1.png)
+![Frontend - Product](Photo/6.png)
+
+If you want to control display size, use HTML:
+
+<img src="Photo/2.png" alt="Frontend Home" width="600" />
+<img src="Photo/6.png" alt="Product Page" width="600" />
+
+Two images side-by-side:
+
+<img src="Photo/3.png" alt="Home" width="320" /> <img src="Photo/5.png" alt="Product" width="320" />
 
 Key backend locations:
 
