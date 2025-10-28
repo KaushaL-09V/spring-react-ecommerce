@@ -88,24 +88,18 @@ Below are example screenshots from the frontend (files stored in the repository'
 
 Standard Markdown (automatic sizing):
 
-![Frontend - Home]<img src="Photo/1.png" alt="Home" width="640" /> <img src="Photo/2.png" alt="Product" width="640" />
+
+![Frontend - Home](Photo/1.png)
+![Frontend - Product](Photo/2.png)
 ![Frontend - Home](Photo/3.png)
 ![Frontend - Product](Photo/4.png)
-![Frontend - Product](Photo/5.png)
-![Frontend - Product](Photo/6.png)
-![Frontend - Product](Photo/7.png)
-![Frontend - Product](Photo/8.png)
-![Frontend - Product](Photo/9.png)
-![Frontend - Product](Photo/10.png)
+![Frontend - AddProduct](Photo/5.png)
+![Frontend - DetailOfProduct](Photo/6.png)
+![Frontend - UpdateProduct](Photo/7.png)
+![Frontend - CheckOutProductProduct](Photo/8.png)
+![Frontend - CheckOutProductProduct](Photo/9.png)
+![Frontend - OrderRecord](Photo/10.png)
 
-If you want to control display size, use HTML:
-
-<img src="Photo/2.png" alt="Frontend Home" width="600" />
-<img src="Photo/6.png" alt="Product Page" width="600" />
-
-Two images side-by-side:
-
-<img src="Photo/3.png" alt="Home" width="320" /> <img src="Photo/5.png" alt="Product" width="320" />
 
 Key backend locations:
 
