@@ -88,8 +88,15 @@ Below are example screenshots from the frontend (files stored in the repository'
 
 Standard Markdown (automatic sizing):
 
-![Frontend - Home](Photo/1.png)
+![Frontend - Home]<img src="Photo/1.png" alt="Home" width="640" /> <img src="Photo/2.png" alt="Product" width="640" />
+![Frontend - Home](Photo/3.png)
+![Frontend - Product](Photo/4.png)
+![Frontend - Product](Photo/5.png)
 ![Frontend - Product](Photo/6.png)
+![Frontend - Product](Photo/7.png)
+![Frontend - Product](Photo/8.png)
+![Frontend - Product](Photo/9.png)
+![Frontend - Product](Photo/10.png)
 
 If you want to control display size, use HTML:
 
